@@ -26,3 +26,18 @@ Stop code
 ```bash
 ctrl+c
 ```
+```bash
+git clone https://github.com/m4rks30/ip.and.port
+```
+```bash
+ls
+```
+```bash
+cd ip.and.port
+```
+```bash
+  python ips1.py
+```
+
+
+
